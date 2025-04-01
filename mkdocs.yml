@@ -1,16 +1,26 @@
+---
 site_name: CSOR – Gouvernance & Documentation
+site_author: Siegfried Sekkai
 repo_url: https://github.com/5136Siegfried/csor-gestion
+repo_name: GitHub
 edit_uri: edit/main/
+docs_dir: .
+use_directory_urls: false
 theme:
   name: material
+  language: fr
   features:
-    - navigation.tabs
-    - navigation.sections
-    - content.code.copy
-    - search.highlight
+  - navigation.expand
+  - navigation.instant
+  - search.suggest
+  - content.code.copy
+  - search.highlight
+  - search.suggest
+  - search.share
   palette:
-    scheme: slate
-
+  - scheme: default
+    primary: teal
+    accent: cyan
 nav:
   - Accueil: index.md
 
@@ -42,3 +52,28 @@ nav:
       - Modèle de fiche projet: outils/modèle-fiche-projet.md
       - Modèle de mailing: outils/modèle-mailing.md
       - Outils numériques: outils/outils-numeriques.md
+
+markdown_extensions:
+- admonition
+- codehilite
+- toc:
+    permalink: true
+- footnotes
+- tables
+- attr_list
+- pymdownx.superfences
+- pymdownx.mark
+- pymdownx.inlinehilite
+- pymdownx.magiclink
+- pymdownx.snippets
+- pymdownx.highlight
+- pymdownx.tabbed
+- pymdownx.details
+extra:
+  social:
+  - icon: fontawesome/brands/github
+    link: https://github.com/5136Siegfried
+  generator: false
+  copyright: © 2025 – CSOR – Tous droits réservés
+extra_css:
+  - assets/css/custom.css
