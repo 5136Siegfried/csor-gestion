@@ -1,0 +1,1 @@
+# Manifeste du CSOR
