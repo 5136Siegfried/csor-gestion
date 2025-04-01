@@ -1,0 +1,44 @@
+site_name: CSOR – Gouvernance & Documentation
+repo_url: https://github.com/5136Siegfried/csor-gestion
+edit_uri: edit/main/
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+    - search.highlight
+  palette:
+    scheme: slate
+
+nav:
+  - Accueil: index.md
+
+  - Statuts:
+      - Version actuelle: statuts/statuts-v1.md
+      - Proposition V2: statuts/statuts-v2-proposition.md
+      - Historique des amendements: statuts/historique-amendements.md
+
+  - Règlement intérieur:
+      - Texte complet: reglement_interieur/reglement-2025.md
+      - Guide du vote: reglement_interieur/guide-vote.md
+
+  - Protocoles:
+      - Maraude: protocoles/maraude.md
+      - Soins sanitaires: protocoles/soins_sanitaires.md
+      - Gestion des conflits: protocoles/gestion_conflit.md
+
+  - Documents:
+      - Charte éthique: docs/charte_ethique.md
+      - Manifeste: docs/manifeste.md
+      - Formulaire d'adhésion: docs/formulaire_adhesion.md
+
+  - Assemblées:
+      - Convocations: ag/convocations/index.md
+      - Comptes-rendus: ag/comptes_rendus/index.md
+      - Votes: ag/votes/index.md
+
+  - Outils:
+      - Modèle de fiche projet: outils/modèle-fiche-projet.md
+      - Modèle de mailing: outils/modèle-mailing.md
+      - Outils numériques: outils/outils-numeriques.md
