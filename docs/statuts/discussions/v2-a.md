@@ -4,27 +4,28 @@
 
 ## 🔹 ARTICLE 1. NOM
 
-### Texte actuel :
+### Texte actuel
 
 Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre : Collectif de Secours et Orientation de Rue (CSOR).
 
-### Analyse :
+### Analyse
 
 🟢 Conforme légalement. Rien à redire en soi.
 🔴 Mais manque d’intention ou de définition collective du nom, ce qui pourrait renforcer le sentiment d’appartenance.
 
-### Proposition :
+### Proposition
 
-``` Il est fondé entre les personnes partageant les valeurs de solidarité, de transparence et d'action horizontale une association régie par la loi du 1er juillet 1901, ayant pour titre : **Collectif de Secours et Orientation de Rue (CSOR)**.
+```markdown
+Il est fondé entre les personnes partageant les valeurs de solidarité, de transparence et d'action horizontale une association régie par la loi du 1er juillet 1901, ayant pour titre : **Collectif de Secours et Orientation de Rue (CSOR)**.
 
-Ce nom n’est pas un sigle neutre : il porte l’ambition d’un collectif citoyen, de terrain, engagé pour la dignité de toutes et tous. ```
+Ce nom n’est pas un sigle neutre : il porte l’ambition d’un collectif citoyen, de terrain, engagé pour la dignité de toutes et tous.
+```
 
-
--------------------------------------
+-------------------------------------;
 
 ## 🔹 ARTICLE 2. BUT
 
-### Texte actuel :
+### Texte actuel
 
 L’association CSOR a pour objet d’œuvrer dans le domaine sanitaire en toute impartialité et sans aucune discrimination.
 Elle exerce sa mission dans trois secteurs d’activités :
@@ -33,7 +34,7 @@ Elle exerce sa mission dans trois secteurs d’activités :
 - La santé et la précarité
 - La formation
 
-### Analyse critique :
+### Analyse critique
 
 - 🟢 Positif : domaine défini, engagement contre la discrimination.
 - 🔴 Mais :
@@ -42,8 +43,10 @@ Aucun accent mis sur la participation des membres ni sur la démarche horizontal
 Le “sanitaire” est trop étroit vu les actions sociales, humaines et militantes du collectif.
 Le mot “mission” donne un ton descendant, presque institutionnel.
 
-### Proposition de réécriture :
-```L’association CSOR a pour but de soutenir les personnes en situation de vulnérabilité, en particulier celles vivant à la rue ou dans la précarité, en alliant accompagnement sanitaire, action sociale, entraide et sensibilisation citoyenne.
+### Proposition de réécriture
+
+```markdown
+L’association CSOR a pour but de soutenir les personnes en situation de vulnérabilité, en particulier celles vivant à la rue ou dans la précarité, en alliant accompagnement sanitaire, action sociale, entraide et sensibilisation citoyenne.
 
 Son objectif est double :
 - agir concrètement, par des actions de terrain, pour la santé, la dignité et les droits fondamentaux ;
@@ -54,11 +57,12 @@ CSOR agit selon trois axes :
 • L’éducation populaire en santé et en citoyenneté
 • La transmission de savoirs via la formation, l’outillage collectif, et l’expérience de terrain
 
-Elle agit en toute impartialité, sans discrimination, et en affirmant des valeurs fortes : transparence, horizontalité, engagement citoyen et refus de toute récupération ou domination.```
+Elle agit en toute impartialité, sans discrimination, et en affirmant des valeurs fortes : transparence, horizontalité, engagement citoyen et refus de toute récupération ou domination.
+```
 
 ## 🔹 ARTICLE 3. MOYENS D’ACTIONS
 
-### Texte actuel :
+### Texte actuel
 
 Ses moyens d’actions sont :
 
@@ -67,7 +71,7 @@ Ses moyens d’actions sont :
 - Partenaire des entités publiques et associatives
 - Formation
 
-### Analyse critique :
+### Analyse critique
 
 - 🟢 Les grandes lignes sont posées.
 - 🔴 Mais :
@@ -76,9 +80,10 @@ Ses moyens d’actions sont :
   - Ne précise pas que les actions peuvent venir des membres eux-mêmes.
   - Aucune mention du lien avec les bénéficiaires, ni de la documentation ou de l’expérimentation.
 
-### Proposition de réécriture :
+### Proposition de réécriture
 
-```Les moyens d’action du CSOR sont définis collectivement et évoluent selon les besoins du terrain.
+```markdown
+Les moyens d’action du CSOR sont définis collectivement et évoluent selon les besoins du terrain.
 
 Ils incluent notamment :
 
@@ -90,18 +95,19 @@ Ils incluent notamment :
 - Le développement de partenariats éthiques avec des entités publiques ou associatives
 - L’expérimentation de nouvelles formes d’organisation démocratique, d’autogestion et d’interventions de proximité
 
-Tout membre peut proposer un projet, coordonner une action ou participer à la construction d’un outil, sous réserve du respect de l’objet et des valeurs du collectif.```
+Tout membre peut proposer un projet, coordonner une action ou participer à la construction d’un outil, sous réserve du respect de l’objet et des valeurs du collectif.
+```
 
------------------------------
+-----------------------------;
 
-##🔹 ARTICLE 4. SIÈGE SOCIAL
+## 🔹 ARTICLE 4. SIÈGE SOCIAL
 
-### Texte actuel :
+### Texte actuel
 
 Son siège social est situé au 69 Rue Frantz Despagnet 33000 Bordeaux (Chez Vincent Masson).
 Il pourra être transféré par simple décision du bureau dans le département et transféré dans un autre département par décision de l’assemblée générale.
 
-### Analyse critique :
+### Analyse critique
 
 🔴 Plusieurs problèmes :
 
@@ -109,9 +115,10 @@ Il pourra être transféré par simple décision du bureau dans le département 
 - Décision laissée au "bureau", alors qu’on veut une gestion horizontale et collective.
 - Pas de mention des outils numériques ni de l’archivage à long terme.
 
-### Proposition de réécriture :
+### Proposition de réécriture
 
-```Le siège social de l’association est établi à Bordeaux. Son adresse exacte est fixée collectivement par les membres actifs et précisée dans le règlement intérieur ou sur les documents administratifs.
+```markdown
+Le siège social de l’association est établi à Bordeaux. Son adresse exacte est fixée collectivement par les membres actifs et précisée dans le règlement intérieur ou sur les documents administratifs.
 
 Le siège peut être transféré :
 
@@ -120,37 +127,43 @@ Le siège peut être transféré :
 
 En complément du siège physique, l’association maintient une **infrastructure numérique partagée** (cloud, outils collaboratifs, archivage sécurisé) servant de base permanente à la transmission des informations, au fonctionnement des groupes de travail, et à la conservation des décisions collectives.
 
-Le siège, physique ou numérique, n’appartient à aucune personne physique. Il est géré comme un **bien commun**, sous la responsabilité partagée des membres actifs du collectif.```
+Le siège, physique ou numérique, n’appartient à aucune personne physique. Il est géré comme un **bien commun**, sous la responsabilité partagée des membres actifs du collectif.
+```
 
--------------------------
+-------------------------;
+
 ## 🔹 ARTICLE 5. DURÉE
-### Texte actuel :
+
+### Texte actuel
 
 La durée de l’association est illimitée.
 
-### Analyse critique :
+### Analyse critique
 
 - 🟢 Formellement correct.
 - 🔴 Trop sec. Ne dit rien sur la philosophie de long terme du collectif. Rien non plus sur la pérennité au-delà des personnes physiques.
 
-### Proposition de réécriture :
+### Proposition de réécriture
 
-```L’association est créée pour une durée illimitée.
+```markdown
+L’association est créée pour une durée illimitée.
 
 Sa continuité repose sur une volonté collective d’ancrer dans le temps une structure autonome, horizontale, et protectrice des plus fragiles.
 
-Elle veille à transmettre ses principes, ses outils et sa mémoire à chaque nouvelle génération de membres, afin de garantir sa pérennité, même en cas de départ ou de renouvellement massif de ses participants.```
+Elle veille à transmettre ses principes, ses outils et sa mémoire à chaque nouvelle génération de membres, afin de garantir sa pérennité, même en cas de départ ou de renouvellement massif de ses participants.
+```
 
----------------------------
+---------------------------;
+
 ## 🔹 ARTICLE 6. COMPOSITION
 
-### Texte actuel :
+### Texte actuel
 
 - Les membres actifs : Sont dénommés membres actifs toutes personnes ayant acquitté une adhésion.
 - Les membres d’honneur : ceux qui ont rendu des services signalés à l'association, dispensés de cotisation, sans droit de vote.
 - Les membres donateurs : ceux qui aident ponctuellement sur des projets, sans droit de vote.
 
-### Analyse critique :
+### Analyse critique
 
 🔴 Problèmes majeurs :
 
@@ -162,9 +175,10 @@ Aucune mention des rôles tournants, des volontaires ponctuels ou des personnes 
 
 Aucune valorisation de l’expérience de terrain ou de l’engagement réel.
 
-### Proposition de réécriture :
+### Proposition de réécriture
 
-```L’association distingue plusieurs formes de participation, toutes respectées et valorisées :
+```markdown
+L’association distingue plusieurs formes de participation, toutes respectées et valorisées :
 
 1. **Membres actifs** : toute personne :
    - ayant adhéré aux statuts et à la charte du collectif ;
@@ -179,20 +193,21 @@ Les membres actifs participent aux décisions, aux votes, et peuvent initier des
 
 4. **Personnes concernées** : toute personne accompagnée ou soutenue par CSOR peut, si elle le souhaite, participer à certaines décisions ou actions du collectif. Son statut de membre peut être acté par l’Assemblée Générale si elle exprime cette volonté.
 
-Aucun statut ne donne de pouvoir hiérarchique ou de préséance. L’égalité entre membres est un principe fondamental de l’association.```
+Aucun statut ne donne de pouvoir hiérarchique ou de préséance. L’égalité entre membres est un principe fondamental de l’association.
+```
 
 ----------------------
 
 ## 🔹 ARTICLE 7. ADMISSION
 
-### Texte actuel :
+### Texte actuel
 
 L’association est ouverte à tous.
 Chaque membre s’engage à respecter les statuts et le règlement intérieur.
 Pour être membre : être majeur, ou mineur accompagné.
 L’association garantit la liberté de conscience et interdit toute discrimination.
 
-### Analyse critique :
+### Analyse critique
 
 - 🟢 L’intention d’ouverture est là.
 - 🔴 Mais :
@@ -201,9 +216,10 @@ L’entrée est floue : aucune procédure claire d’accueil ou de validation.
 L’accent est mis sur l’âge et le règlement, mais pas sur l’humain, la rencontre ou le processus de reconnaissance mutuelle.
 Rien sur l’accompagnement des nouveaux, l’accès à l’information, ou les étapes pour devenir membre actif.
 
-### Proposition de réécriture :
+### Proposition de réécriture
 
-```L’association est ouverte à toute personne partageant ses valeurs et souhaitant y contribuer.
+```markdown
+L’association est ouverte à toute personne partageant ses valeurs et souhaitant y contribuer.
 
 L’admission repose sur un principe de **confiance, d’accueil et de transparence** :
 
@@ -214,9 +230,10 @@ Le collectif privilégie l’**inclusion progressive** : les nouveaux membres so
 
 L’association interdit toute forme de discrimination (âge, origine, genre, orientation, statut social ou de santé). Elle garantit la **liberté de conscience, d’expression et de désaccord**, dans le respect des autres et de l’objet du collectif.
 
-Les mineur·es peuvent participer avec l’accord d’un responsable légal, et bénéficient d’une protection renforcée dans leur participation.````
+Les mineur·es peuvent participer avec l’accord d’un responsable légal, et bénéficient d’une protection renforcée dans leur participation.
+```
 
--------------------------
+-------------------------;
 
 ## 🔹 ARTICLE 8. ADHÉSION
 
@@ -239,7 +256,8 @@ Aucune notion de prix libre, ni de confiance a priori.
 
 ### Proposition de réécriture :
 
-```L’adhésion est un engagement moral envers les valeurs, les statuts et les actions du collectif. Elle ouvre l’accès au statut de membre actif, aux droits de vote, et à la possibilité de porter des projets en son nom.
+```markdown
+L’adhésion est un engagement moral envers les valeurs, les statuts et les actions du collectif. Elle ouvre l’accès au statut de membre actif, aux droits de vote, et à la possibilité de porter des projets en son nom.
 
 L’adhésion est renouvelable chaque année, entre octobre et janvier. Elle se fait sur simple demande, validation par un·e membre actif·ve, et signature des documents de référence (statuts, charte, règlement).
 
@@ -247,9 +265,10 @@ La participation financière est **à prix libre**, avec une contribution recomm
 
 L’accès au terrain n’est jamais conditionné au remplissage rigide d’un dossier, mais à la bonne volonté de la personne, à son information sur les règles collectives, et à la validation par un·e référent·e présent·e lors de l’action.
 
-L’adhésion n’est pas un obstacle, mais une **porte d’entrée vers l’engagement**. Elle repose sur la confiance, l’envie d’agir ensemble, et la reconnaissance mutuelle.````
+L’adhésion n’est pas un obstacle, mais une **porte d’entrée vers l’engagement**. Elle repose sur la confiance, l’envie d’agir ensemble, et la reconnaissance mutuelle.
+```
 
-------------------------
+------------------------;
 
 ## 🔹 ARTICLE 9. RADIATION
 
@@ -271,7 +290,8 @@ La pauvreté devient un motif d’exclusion déguisée via le non-paiement.
 
 ### Proposition de réécriture :
 
-```La qualité de membre actif peut se perdre dans les cas suivants :
+```markdown
+La qualité de membre actif peut se perdre dans les cas suivants :
 
 1. **Démission volontaire** : exprimée par tout moyen écrit ou oral auprès du collectif.
 2. **Décès**.
@@ -286,11 +306,12 @@ Le non-paiement d’une contribution financière ne constitue **jamais un motif 
 
 Le non-renouvellement d’une adhésion pour désengagement manifeste (absence totale, refus de communication, comportements bloquants) peut être envisagé, **mais jamais sans information claire, tentative de contact, ni recours possible**.
 
-L’exclusion est un **dernier recours**, jamais une manœuvre politique, ni un outil de gestion des désaccords.```
+L’exclusion est un **dernier recours**, jamais une manœuvre politique, ni un outil de gestion des désaccords.
+```
 
---------------------------
+--------------------------;
 
-##🔹 ARTICLE 10. AFFILIATION
+## 🔹 ARTICLE 10. AFFILIATION
 
 ### Texte actuel :
 
@@ -306,7 +327,8 @@ Aucun recours si un partenariat est jugé problématique par les membres.
 
 ### Proposition de réécriture :
 
-```L’association peut établir des partenariats ou coopérations avec d’autres structures (associations, collectifs, institutions, syndicats…), à condition que ces structures respectent les valeurs fondamentales du CSOR : entraide, horizontalité, transparence, autonomie, et non-discrimination.
+```markdown
+L’association peut établir des partenariats ou coopérations avec d’autres structures (associations, collectifs, institutions, syndicats…), à condition que ces structures respectent les valeurs fondamentales du CSOR : entraide, horizontalité, transparence, autonomie, et non-discrimination.
 
 Toute proposition de partenariat fait l’objet d’une **discussion collective ouverte**, et peut être validée :
 - soit par consensus en réunion ouverte ;
@@ -314,9 +336,10 @@ Toute proposition de partenariat fait l’objet d’une **discussion collective 
 
 Les partenariats doivent être **réciproques, transparents et documentés**. Aucun partenariat ne doit engager l’association dans une logique de subordination, de dépendance financière ou de compromission éthique.
 
-Tout membre peut proposer une affiliation, demander l’examen d’un partenariat en cours, ou contester publiquement un engagement qu’il juge contraire aux statuts.````
+Tout membre peut proposer une affiliation, demander l’examen d’un partenariat en cours, ou contester publiquement un engagement qu’il juge contraire aux statuts.
+```
 
-------------------
+------------------;
 
 ## 🔹 ARTICLE 11. RESSOURCES
 
@@ -335,7 +358,8 @@ Les ressources comprennent : cotisations, subventions, dons, ventes de prestatio
 
 ### Proposition de réécriture :
 
-```Les ressources de l’association comprennent notamment :
+```markdown
+Les ressources de l’association comprennent notamment :
 
 - les contributions volontaires des membres (cotisations, dons à prix libre) ;
 - les subventions publiques ou privées, dans le respect de l’éthique du collectif ;
@@ -349,11 +373,12 @@ Chaque trimestre, un **bilan financier simplifié** est partagé aux membres.
 
 Un **budget participatif** est mis en place : au moins 20% des ressources annuelles sont fléchées vers des projets proposés, votés et portés par les membres eux-mêmes.
 
-Tout membre peut demander des explications sur l’utilisation des fonds, proposer une nouvelle affectation, ou contester une dépense contraire à l’éthique collective.```
+Tout membre peut demander des explications sur l’utilisation des fonds, proposer une nouvelle affectation, ou contester une dépense contraire à l’éthique collective.
+```
 
--------------------------
+-------------------------;
 
-##🔹 ARTICLE 12. ASSEMBLÉE GÉNÉRALE ORDINAIRE (AGO)
+## 🔹 ARTICLE 12. ASSEMBLÉE GÉNÉRALE ORDINAIRE (AGO)
 
 ### Texte actuel :
 
@@ -369,9 +394,10 @@ L’AGO réunit les membres actifs une fois par an. Elle approuve les comptes, v
 - Le pouvoir reste concentré sur le Conseil Collégial.
 - Rien sur la prise de parole libre, ni sur l’autonomie des membres pour soumettre des points.
 
-### Proposition de réécriture :
+### Proposition de réécriture
 
-```L’Assemblée Générale Ordinaire (AGO) est l’instance souveraine du collectif. Elle se réunit au moins une fois par an.
+```markdown
+L’Assemblée Générale Ordinaire (AGO) est l’instance souveraine du collectif. Elle se réunit au moins une fois par an.
 
 Elle réunit l’ensemble des membres actifs pour :
 - faire le point sur l’année écoulée (activités, finances, événements marquants) ;
@@ -387,9 +413,10 @@ Les décisions sont prises à la **majorité simple** des voix exprimées. Chaqu
 
 L’AGO peut se tenir en **présentiel, en distanciel ou en format hybride**. Une **feuille de présence numérique ou papier** est archivée pour chaque session.
 
-Les débats sont ouverts, horizontaux et facilités. **Tout membre a le droit de parole et peut proposer une résolution**, une critique ou un vote symbolique.````
+Les débats sont ouverts, horizontaux et facilités. **Tout membre a le droit de parole et peut proposer une résolution**, une critique ou un vote symbolique.
+```
 
------------------------
+-----------------------;
 
 ## 🔹 **ARTICLE 13. ASSEMBLÉE GÉNÉRALE EXTRAORDINAIRE (AGE)**
 
@@ -429,9 +456,10 @@ La convocation suit les mêmes règles que pour l’AGO : délai de 15 jours, or
 
 Les décisions sont prises à la majorité des **deux tiers des voix exprimées**, en présentiel ou en ligne via un outil sécurisé.
 
-L’AGE peut se dérouler **en présentiel, en distanciel ou en format hybride**. Son rôle est de garantir le respect des fondements de l’association face à des changements structurels ou sensibles.```
+L’AGE peut se dérouler **en présentiel, en distanciel ou en format hybride**. Son rôle est de garantir le respect des fondements de l’association face à des changements structurels ou sensibles.
+```
 
-----------------------
+----------------------;
 
 ## 🔹 ARTICLE 14. LE CONSEIL COLLÉGIAL
 
@@ -454,7 +482,8 @@ Le vocabulaire reste pyramidal : « dirige », « élit », « délibère ».
 ### Proposition de réécriture pour un modèle horizontal et distribué :
 
 
-```ARTICLE 14. COORDINATION TOURNANTE ET CERCLE DE FACILITATION
+```markdown
+ARTICLE 14. COORDINATION TOURNANTE ET CERCLE DE FACILITATION
 
 L’association ne reconnaît pas de structure dirigeante permanente. Elle repose sur une **coordination tournante**, assumée collectivement par les membres actifs.
 
@@ -470,11 +499,12 @@ Chaque membre du cercle peut déléguer ses tâches, partager sa charge, ou tran
 
 Les membres du cercle sont **révocables à tout moment** par une décision collective motivée.
 
-Le cercle ne dispose d’**aucun pouvoir hiérarchique** : il agit en transparence, en appui des décisions collectives, et se rend régulièrement compte de ses actions à l’ensemble des membres.```
+Le cercle ne dispose d’**aucun pouvoir hiérarchique** : il agit en transparence, en appui des décisions collectives, et se rend régulièrement compte de ses actions à l’ensemble des membres.
+```
 
---------------------
+--------------------;
 
-##🔹 ARTICLE 15. POUVOIRS DU CERCLE DE FACILITATION
+## 🔹 ARTICLE 15. POUVOIRS DU CERCLE DE FACILITATION
 
 ### Texte actuel :
 
@@ -494,7 +524,8 @@ L’absence d’une logique de mandat ou de redevabilité ouvre la porte aux dé
 
 ### Proposition de réécriture :
 
-```ARTICLE 15. MANDAT ET LIMITES DU CERCLE DE FACILITATION
+```markdown
+ARTICLE 15. MANDAT ET LIMITES DU CERCLE DE FACILITATION
 
 Le cercle de facilitation agit uniquement dans le cadre des missions qui lui ont été confiées collectivement.
 
@@ -510,11 +541,12 @@ Le cercle **ne peut pas prendre de décision engageant l’association** sans va
 
 Il agit dans un esprit de **redevabilité** : toute action entreprise en son nom doit être documentée, expliquée, et soumise à discussion si des membres en font la demande.
 
-Les membres du cercle peuvent être remplacés à tout moment par tirage au sort, désignation collective ou retrait volontaire. Le cercle rend des comptes tous les 3 mois lors d’un point ouvert aux membres actifs.```
+Les membres du cercle peuvent être remplacés à tout moment par tirage au sort, désignation collective ou retrait volontaire. Le cercle rend des comptes tous les 3 mois lors d’un point ouvert aux membres actifs.
+```
 
------------------
+-----------------;
 
-##🔹 ARTICLE 16. RÉFÉRENT·E MÉDICAL·E
+## 🔹 ARTICLE 16. RÉFÉRENT·E MÉDICAL·E
 
 ### Texte actuel :
 
@@ -534,7 +566,8 @@ Rien sur la transparence de ses critères, ni sur les recours.
 
 ### Proposition de réécriture :
 
-```ARTICLE 16. RÉFÉRENCE SANITAIRE COLLECTIVE
+```markdown
+ARTICLE 16. RÉFÉRENCE SANITAIRE COLLECTIVE
 
 Le collectif peut désigner une ou plusieurs personnes référentes sur les questions sanitaires, appelées **référent·es médicaux**. Leur rôle est de :
 
@@ -549,9 +582,10 @@ Ils ou elles ne disposent **d’aucun pouvoir décisionnel individuel**. Leur pa
 
 En cas de désaccord persistant, un groupe d’arbitrage peut être formé, mêlant référent·es, personnes concernées et membres actifs, afin de trancher avec équilibre.
 
-Aucune expertise ne peut prévaloir sur l’éthique collective, la transparence et la concertation horizontale.```
+Aucune expertise ne peut prévaloir sur l’éthique collective, la transparence et la concertation horizontale.
+```
 
---------------------------
+--------------------------;
 
 ## 🔹 ARTICLE 17. INDEMNITÉS
 
@@ -572,7 +606,8 @@ Aucun droit pour les personnes précaires à une prise en charge anticipée ou s
 
 ### Proposition de réécriture :
 
-```ARTICLE 17. BÉNÉVOLAT ET REMBOURSEMENTS
+```markdown
+ARTICLE 17. BÉNÉVOLAT ET REMBOURSEMENTS
 
 Toutes les fonctions exercées au sein du collectif sont **bénévoles**, dans un esprit d’engagement solidaire et désintéressé.
 
@@ -584,11 +619,12 @@ Un **registre des remboursements** est tenu à jour, accessible à tous les memb
 
 En cas de précarité, un **fonds de soutien ponctuel** peut être proposé (avance de frais, prise en charge solidaire) pour ne pas créer d’exclusion économique à la participation.
 
-Aucun membre ne perçoit de rémunération, et aucun remboursement ne peut devenir un revenu déguisé.```
+Aucun membre ne perçoit de rémunération, et aucun remboursement ne peut devenir un revenu déguisé.
+```
 
-------------------
+------------------;
 
-##🔹 ARTICLE 18. RÈGLEMENT INTÉRIEUR
+## 🔹 ARTICLE 18. RÈGLEMENT INTÉRIEUR
 
 ### Texte actuel :
 
@@ -608,7 +644,8 @@ Le règlement devient un outil de contrôle au lieu d’un outil collectif.
 
 ### Proposition de réécriture :
 
-```ARTICLE 18. RÈGLEMENT INTÉRIEUR
+```markdown
+ARTICLE 18. RÈGLEMENT INTÉRIEUR
 
 Le règlement intérieur complète les statuts. Il précise les modalités pratiques de fonctionnement du collectif (maraudes, sécurité, groupes de travail, outils numériques, rôles tournants, etc.).
 
@@ -620,9 +657,10 @@ Tout membre actif peut proposer une **modification ou un amendement** au règlem
 
 Le règlement est public, accessible à tous les membres, et lu à chaque nouvelle adhésion. Il ne peut en aucun cas contredire les statuts ou restreindre la participation sans fondement éthique.
 
-Chaque mise à jour est datée, notifiée, archivée, et accompagnée d’un **document comparatif avant/après**.```
+Chaque mise à jour est datée, notifiée, archivée, et accompagnée d’un **document comparatif avant/après**.
+```
 
--------------------------
+-------------------------;
 
 ## 🔹 ARTICLE 19. DISSOLUTION
 
@@ -645,7 +683,8 @@ Aucun rappel des principes éthiques à respecter dans la transmission.
 ### Proposition de réécriture :
 
 
-```ARTICLE 19. DISSOLUTION
+```markdown
+ARTICLE 19. DISSOLUTION
 
 La dissolution de l’association ne peut être prononcée que lors d’une **Assemblée Générale Extraordinaire**, convoquée à cet effet selon les modalités prévues aux statuts.
 
@@ -657,4 +696,5 @@ L’actif restant est transféré à une ou plusieurs structures poursuivant des
 
 La transmission se fait selon des **critères de continuité éthique**, de transparence, et de respect des valeurs fondatrices du CSOR.
 
-Aucun membre ne peut tirer un avantage personnel de cette dissolution, hormis la reprise de biens prêtés ou de dons identifiés comme récupérables en amont.```
+Aucun membre ne peut tirer un avantage personnel de cette dissolution, hormis la reprise de biens prêtés ou de dons identifiés comme récupérables en amont.
+```
