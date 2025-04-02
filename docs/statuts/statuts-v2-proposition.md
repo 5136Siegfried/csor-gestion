@@ -1,5 +1,5 @@
 # Statuts – Proposition V2
-> Ceci est une proposition de statut pour l'AGE d'avril. L'esprit des modification est tracé dans /status/discussions/V2 . Sa Philosophie est basée sur une vraie collégialité.
+> Ceci est une proposition de statut pour l'AGE d'avril. L'esprit des modification est tracé dans /status/discussions/v2-a . Sa Philosophie est basée sur une vraie collégialité.
 
 ### Statuts de l'association CSOR -- Collectif Secours et Orientation de Rue
 
